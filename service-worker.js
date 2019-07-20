@@ -15,7 +15,7 @@ importScripts("/soql-parser-js/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/soql-parser-js/workbox-v3.6.3"});
 
 importScripts(
-  "/soql-parser-js/precache-manifest.205602fb023c394759202010fde383f8.js"
+  "/soql-parser-js/precache-manifest.6417e1dc4de6511c6b79882cd2213ba7.js"
 );
 
 workbox.clientsClaim();
