@@ -1,6 +1,13 @@
 {
-  "main.css": "static/css/main.33e74b48.css",
-  "main.css.map": "static/css/main.33e74b48.css.map",
-  "main.js": "static/js/main.0ba7ee99.js",
-  "main.js.map": "static/js/main.0ba7ee99.js.map"
+  "main.css": "/soql-parser-js/static/css/main.88ce1b8c.chunk.css",
+  "main.js": "/soql-parser-js/static/js/main.7eaf7a25.chunk.js",
+  "main.js.map": "/soql-parser-js/static/js/main.7eaf7a25.chunk.js.map",
+  "static/js/1.1ec989f6.chunk.js": "/soql-parser-js/static/js/1.1ec989f6.chunk.js",
+  "static/js/1.1ec989f6.chunk.js.map": "/soql-parser-js/static/js/1.1ec989f6.chunk.js.map",
+  "runtime~main.js": "/soql-parser-js/static/js/runtime~main.95b98426.js",
+  "runtime~main.js.map": "/soql-parser-js/static/js/runtime~main.95b98426.js.map",
+  "static/css/main.88ce1b8c.chunk.css.map": "/soql-parser-js/static/css/main.88ce1b8c.chunk.css.map",
+  "index.html": "/soql-parser-js/index.html",
+  "precache-manifest.205602fb023c394759202010fde383f8.js": "/soql-parser-js/precache-manifest.205602fb023c394759202010fde383f8.js",
+  "service-worker.js": "/soql-parser-js/service-worker.js"
 }
