@@ -1,13 +1,15 @@
 {
-  "main.css": "/soql-parser-js/static/css/main.88ce1b8c.chunk.css",
-  "main.js": "/soql-parser-js/static/js/main.7eaf7a25.chunk.js",
-  "main.js.map": "/soql-parser-js/static/js/main.7eaf7a25.chunk.js.map",
-  "static/js/1.a8abf035.chunk.js": "/soql-parser-js/static/js/1.a8abf035.chunk.js",
-  "static/js/1.a8abf035.chunk.js.map": "/soql-parser-js/static/js/1.a8abf035.chunk.js.map",
-  "runtime~main.js": "/soql-parser-js/static/js/runtime~main.95b98426.js",
-  "runtime~main.js.map": "/soql-parser-js/static/js/runtime~main.95b98426.js.map",
-  "static/css/main.88ce1b8c.chunk.css.map": "/soql-parser-js/static/css/main.88ce1b8c.chunk.css.map",
-  "index.html": "/soql-parser-js/index.html",
-  "precache-manifest.6417e1dc4de6511c6b79882cd2213ba7.js": "/soql-parser-js/precache-manifest.6417e1dc4de6511c6b79882cd2213ba7.js",
-  "service-worker.js": "/soql-parser-js/service-worker.js"
+  "files": {
+    "main.css": "/soql-parser-js/static/css/main.6eccc226.chunk.css",
+    "main.js": "/soql-parser-js/static/js/main.a5d0fc10.chunk.js",
+    "main.js.map": "/soql-parser-js/static/js/main.a5d0fc10.chunk.js.map",
+    "runtime-main.js": "/soql-parser-js/static/js/runtime-main.fa7597e2.js",
+    "runtime-main.js.map": "/soql-parser-js/static/js/runtime-main.fa7597e2.js.map",
+    "static/js/2.dcf6e6dc.chunk.js": "/soql-parser-js/static/js/2.dcf6e6dc.chunk.js",
+    "static/js/2.dcf6e6dc.chunk.js.map": "/soql-parser-js/static/js/2.dcf6e6dc.chunk.js.map",
+    "index.html": "/soql-parser-js/index.html",
+    "precache-manifest.d6680597a9e8639bf144efb404adeca4.js": "/soql-parser-js/precache-manifest.d6680597a9e8639bf144efb404adeca4.js",
+    "service-worker.js": "/soql-parser-js/service-worker.js",
+    "static/css/main.6eccc226.chunk.css.map": "/soql-parser-js/static/css/main.6eccc226.chunk.css.map"
+  }
 }
