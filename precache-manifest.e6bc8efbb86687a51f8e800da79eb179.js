@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ec07d7599773d74aad602a4384c4163",
+    "revision": "97949b4447f3ad814cd47d8ce13f7e1f",
     "url": "/soql-parser-js/index.html"
   },
   {
-    "revision": "e457cbe6ba19fb641d52",
+    "revision": "282ee32dffccf0468e12",
     "url": "/soql-parser-js/static/css/main.6eccc226.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/soql-parser-js/static/js/2.6a703898.chunk.js"
   },
   {
-    "revision": "e457cbe6ba19fb641d52",
-    "url": "/soql-parser-js/static/js/main.0db581b8.chunk.js"
+    "revision": "282ee32dffccf0468e12",
+    "url": "/soql-parser-js/static/js/main.61483db4.chunk.js"
   },
   {
     "revision": "f1fd828028b9f3c130bb",
