@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/soql-parser-js/static/css/main.a655531e.chunk.css",
-    "main.js": "/soql-parser-js/static/js/main.73d4c13b.chunk.js",
-    "main.js.map": "/soql-parser-js/static/js/main.73d4c13b.chunk.js.map",
+    "main.js": "/soql-parser-js/static/js/main.38a3364c.chunk.js",
+    "main.js.map": "/soql-parser-js/static/js/main.38a3364c.chunk.js.map",
     "runtime-main.js": "/soql-parser-js/static/js/runtime-main.fa7597e2.js",
     "runtime-main.js.map": "/soql-parser-js/static/js/runtime-main.fa7597e2.js.map",
-    "static/js/2.e2fe3fd1.chunk.js": "/soql-parser-js/static/js/2.e2fe3fd1.chunk.js",
-    "static/js/2.e2fe3fd1.chunk.js.map": "/soql-parser-js/static/js/2.e2fe3fd1.chunk.js.map",
+    "static/js/2.db315c2b.chunk.js": "/soql-parser-js/static/js/2.db315c2b.chunk.js",
+    "static/js/2.db315c2b.chunk.js.map": "/soql-parser-js/static/js/2.db315c2b.chunk.js.map",
     "index.html": "/soql-parser-js/index.html",
-    "precache-manifest.55f44a1aa6eb855e3076215ead2de157.js": "/soql-parser-js/precache-manifest.55f44a1aa6eb855e3076215ead2de157.js",
+    "precache-manifest.24841f582c67d94f20a51bd5cf9425bd.js": "/soql-parser-js/precache-manifest.24841f582c67d94f20a51bd5cf9425bd.js",
     "service-worker.js": "/soql-parser-js/service-worker.js",
     "static/css/main.a655531e.chunk.css.map": "/soql-parser-js/static/css/main.a655531e.chunk.css.map",
     "static/media/soql-parser-js-logo.156504bb.svg": "/soql-parser-js/static/media/soql-parser-js-logo.156504bb.svg"
