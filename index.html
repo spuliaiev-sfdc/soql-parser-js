@@ -11,6 +11,24 @@
     <!-- Fonts -->
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
   </head>
+  <script>
+    try {
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker
+          .getRegistrations()
+          .then(function(registrations) {
+            for (let registration of registrations) {
+              registration.unregister();
+            }
+          })
+          .catch(function(err) {
+            console.log('Service Worker registration failed: ', err);
+          });
+      }
+    } catch (ex) {
+      console.log('Service Worker registration exception: ', ex);
+    }
+  </script>
   <body>
     <my-app></my-app>
   <script type="text/javascript" src="/soql-parser-js/0.app.js"></script><script type="text/javascript" src="/soql-parser-js/2.app.js"></script><script type="text/javascript" src="/soql-parser-js/app.js"></script></body>
